@@ -18,8 +18,8 @@ void login()
 	int a=0,i=0;
     char uname[10],c=' ';
     char pword[10],code[10];
-    char user[10]="admin";
-    char pass[10]="admin";
+    char user[10]="bigyajeet";
+    char pass[10]="rahul123 ";
     do
 {
 	system("cls");
@@ -90,7 +90,7 @@ int main(){
  	printf("\t\t=============================================\n");
 	printf("\t\t|                                           |\n");
 	printf("\t\t|       ----------------------------        |\n");
-	printf("\t\t|           ROOM BOOK FOR GUEST          |\n");
+	printf("\t\t|           ROOM BOOK FOR GUEST             |\n");
 	printf("\t\t|       ----------------------------        |\n");
 	printf("\t\t|                                           |\n");
 	printf("\t\t|                                           |\n");
