@@ -1,0 +1,33 @@
+*{
+    padding:0;
+    box-sizing:border-box;
+    color:black;
+    
+    font-weight:900;
+
+}
+body{
+    background-image: url("GIFT-engineering-college-in-campus-hostel.jpg");
+
+   background-image: cover;
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+.back{
+    /* background-color:black; */
+    background: cover;
+    height: 1000px;
+}
+.back a
+{
+    display:flex;
+    justify-content:center;
+    text-decoration: none;
+    
+    
+
+}
+pre{
+    font-size: large;
+}

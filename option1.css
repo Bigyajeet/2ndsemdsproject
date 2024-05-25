@@ -1,0 +1,29 @@
+*{
+    padding:0px;
+    box-sizing: border-box;
+    color:black;
+    
+}
+body{
+    background-image:url("1649507404810.jpeg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:1000px;
+}
+h2{
+    color:white;
+}
+.back{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+
+}
+input{
+    height:14px;
+    width:220px;
+}
+button a{
+    display:flex;
+    justify-content: center;
+}
